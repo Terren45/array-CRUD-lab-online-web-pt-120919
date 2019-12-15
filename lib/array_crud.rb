@@ -33,4 +33,4 @@ def create_an_array
 def create_an_array
   create_an_array[3]
  end
-
+end
